@@ -86,3 +86,6 @@
 - 管理員擁有權利在特殊情況下強制開啟會員的鎖櫃
 - 管理員可以查看鎖櫃被使用的紀錄
 - 使用者與管理者可以透過系統內的聊天室窗互相聯絡
+
+## ER-Model
+https://drive.google.com/file/d/1mLEpI1mvYOw2xc1LucTDVZDRweOXxnaO/view?usp=sharing
