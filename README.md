@@ -89,5 +89,12 @@
 - 管理員可以查看鎖櫃被使用的紀錄
 - 使用者與管理者可以透過系統內的聊天室窗互相聯絡
 
+## API
+- 登入
+- 取得置物櫃使用者資訊與操作紀錄
+- 會員逼卡開鎖
+- 管理員用系統開鎖
+- 更改資訊
+
 ## ER-Model
 https://drive.google.com/file/d/1mLEpI1mvYOw2xc1LucTDVZDRweOXxnaO/view?usp=sharing
