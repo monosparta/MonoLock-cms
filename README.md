@@ -45,6 +45,8 @@
 - 軟體需求
   - React
   - laravel
+  - mqtt broker server
+    [參考資料](http://www.steves-internet-guide.com/mosquitto-broker/)
   - python
   - MySQL
 
