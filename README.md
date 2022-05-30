@@ -2,8 +2,8 @@
 
 ## Repo
 
-- front：[https://github.com/leonnn124/luck-cms](https://github.com/leonnn124/luck-cms)
-- back：[https://github.com/monosparta/git-practice-Jonathan](https://github.com/monosparta/git-practice-Jonathan)
+- front：[https://github.com/monosparta/luck-cms](https://github.com/leonnn124/luck-cms)
+- back：[https://github.com/monosparta/MonoLuck-CMS-Back](https://github.com/monosparta/MonoLuck-CMS-Back)
 
 ## User Story
 
